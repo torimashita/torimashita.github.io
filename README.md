@@ -1,4 +1,4 @@
-# brendansphotography.github.io
+# torimashita.github.io
 Photography Website and portfolio
 
 The website design itself is licensed under Creative Commons Attribution 3.0 Unported http://creativecommons.org/licenses/by/3.0/
